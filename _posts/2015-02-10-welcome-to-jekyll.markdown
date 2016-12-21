@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "hello jekyll!"
+title:  "hello Jekyll!"
 date:   2015-02-10 15:14:54
-categories: jekyll
-tags: jekyll
-excerpt: 当年创建 jekyll 时默认的一篇文章，没什么意义，我也一直没删除，留个纪念吧。
+categories: Jekyll
+tags: Jekyll
+excerpt: 当年创建 Jekyll 时默认的一篇文章，没什么意义，我也一直没删除，留个纪念吧。
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `Jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 

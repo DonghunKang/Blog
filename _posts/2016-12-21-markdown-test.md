@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "jekyll 글쓰기 및 markdown 테스팅"
+title:  "Jekyll 글쓰기 및 markdown 테스팅"
 date:   2016-12-21 15:14:54
-categories: jekyll
-tags: jekyll
+categories: Jekyll
+tags: Jekyll
 excerpt:
 ---
 

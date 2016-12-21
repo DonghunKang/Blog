@@ -3,8 +3,8 @@
 layout: post
 title: "CodeBlock 및 markdown 테스팅"
 date: 2016-12-21 19:48:00
-categories: jekyll
-tags: jekyll codeblock markdown
+categories: Jekyll
+tags: Jekyll codeblock markdown
 
 excerpt:
 ---
