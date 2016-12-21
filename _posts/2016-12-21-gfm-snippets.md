@@ -4,6 +4,7 @@ title: "Atom에서 GFM 마크다운 스니펫(snippet) 만들기"
 date: 2016-12-21 20:07:30
 categories: Markdown
 tags: Atom GFM Markdown Snippet 단축키
+comments: true
 ---
 ### Atom에서 GFM 마크다운 스니펫(snippet) 만들기
 먼저 아톰 실행 후 Ctrl+Shift+P를 눌러서 커맨드 창을 띄운 이후 snippet을 입력하고, Application:Open Your Snippets를 선택하여 `snippets.cson`파일을 연다.
