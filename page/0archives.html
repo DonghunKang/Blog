@@ -30,8 +30,8 @@ type: page
                 <time>
                 {{ post.date | date:"%F" }} {{ post.date | date: "%a" }}.
                 </time>
-                <!-- modification from http://ricostacruz.com/til/relative-paths-in-jekyll -->
-                <a class="title" href="{{base}}{{ post.url }}">{{ post.title }}</a>
+                <!-- 1modification from http://ricostacruz.com/til/relative-paths-in-jekyll -->
+                <a class="title" href='{{ base }}{{ post.url }}'>{{ post.title }}</a>
 
                 {% include category.html %}
                 {% include tag.html %}
